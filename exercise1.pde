@@ -45,5 +45,5 @@ fill(0);
 ellipse(156,120,6,10);
 stroke(255);
 fill(255);
-ellipse(156,120,1,3);
+ellipse(156,120,1,3); 
 
